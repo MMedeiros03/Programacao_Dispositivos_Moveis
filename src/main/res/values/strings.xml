@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="sorteador_de_numeros">sorteador_de_numeros</string>
+    <string name="numero1">numero1</string>
+    <string name="numero2">numero2</string>
+    <string name="resultado">resultado</string>
+</resources>
